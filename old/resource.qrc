@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="/ui">
+    <file>LogoWindow.ui</file>
+    <file>MainWindow.ui</file>
+  </qresource>
+  <qresource prefix="/images">
+    <file>images/hi.png</file>
+  </qresource>
+</RCC>

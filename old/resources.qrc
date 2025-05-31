@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>build/Desktop_Qt_6_7_3_MinGW_64_bit-Debug/debug/hi</file>
+    </qresource>
+</RCC>
